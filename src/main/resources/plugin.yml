@@ -1,0 +1,4 @@
+name: LobbyPlugin
+author: Fluction
+version: 1.0
+main: ml.fatticazzitua.LobbyPlugin.LobbyPlugin
